@@ -23,3 +23,8 @@ yarn prisma init
 
 Iniciar aplicação:
 cd backend && npm run dev
+
+Subir no git:
+PS E:\NLW-7> git add .
+PS E:\NLW-7> git commit -m "ajuste readme"
+PS E:\NLW-7> git push
