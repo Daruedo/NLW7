@@ -6,7 +6,7 @@
     [x] Configurar Github OAuth
     [x] Criar rota login github
     [x] Criar rota callback
-    [] Autenticação usuário recebendo o código
+    [] Autenticação usuário recebendo o código (em andamento)
     [] Cadastro de mensagem
     [] Configuração websocket
     [] Retornar 3 últimas mensagens
@@ -21,4 +21,5 @@ Prisma:
 yarn add prisma -D
 yarn prisma init
 
-npm run dev
+Iniciar aplicação:
+cd backend && npm run dev
