@@ -2,11 +2,12 @@
 
 [] Conteúdo Técnico
     [x] Criar Projeto
+    <br>
     [x] Instalar Express, Prisma, Typescript
     [x] Configurar Github OAuth
     [x] Criar rota login github
     [x] Criar rota callback
-    [] Autenticação usuário recebendo o código (em andamento)
+    [] Autenticação usuário recebendo o código
     [] Cadastro de mensagem
     [] Configuração websocket
     [] Retornar 3 últimas mensagens
