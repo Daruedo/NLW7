@@ -9,8 +9,8 @@
     [x] Criar rota callback
     [x] Autenticação usuário recebendo o código
     [x] Cadastro de mensagem
-    [] Configuração websocket
-    [] Retornar 3 últimas mensagens
+    [x] Configuração websocket
+    [x] Retornar 3 últimas mensagens
     [] Criar profile do users
 
 
