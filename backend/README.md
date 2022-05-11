@@ -28,10 +28,6 @@ Axios:
 yarn add axios
 yarn add @types/axios -D (instalar tipagens do axios como dependencia de desenvolvimento)
 
-JSON Web Token:
-yarn add jsonwebtoken
-yarn add @types/jsonwebtoken -D
-
 Socket.io:
 yarn add socket.io
 yarn add @types/socket.io -D
@@ -39,6 +35,10 @@ yarn add @types/socket.io -D
 Cors:
 yarn add cors
 yarn add @types/cors -D
+
+JSON Web Token:
+yarn add jsonwebtoken
+yarn add @types/jsonwebtoken -D
 
 Iniciar aplicação:
 cd backend && npm run dev || yarn dev

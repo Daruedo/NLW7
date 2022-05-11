@@ -14,10 +14,6 @@ export function ensureAuthenticated(request: Request, response: Response, next: 
         })
     }
 
-    // Bearer 
-    // [0] Bearer
-    // [1] 
-
     const [,token ] = authToken.split(" ")
 
     try {
