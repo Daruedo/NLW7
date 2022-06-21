@@ -49,5 +49,12 @@ PS E:\NLW-7> git commit -m "ajuste readme"
 PS E:\NLW-7> git push
 
 
+colocar no readme do frontend:
+yarn add scss
+yarn add socket.io-client
+
+
 Perguntar para Adri:
 AuthenticateUserService linha 50, pq usar let e o que é?
+
+
